@@ -19,4 +19,4 @@
 - **!nf / !numf start / stop** - включает бан по сообщениям состоящих из 2-5 цифр включительно. Пример: !nf start.
 
 ***
-**[Поддержать](https://www.donationalerts.com/r/gercovv)**
+**[Поддержать](https://www.donationalerts.com/r/gercovv)** **[Наш сайт]**(http://193.124.112.27/)
