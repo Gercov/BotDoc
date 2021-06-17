@@ -1,5 +1,5 @@
 ## Установка/Удаление
-Для установки бота на свой канал вы можете написать в личные сообщения твича:
+Для установки или удаления бота на свой канал вы можете написать в личные сообщения твича:
 - [gercovv](https://www.twitch.tv/gercovv)
 - [santoskrol](https://www.twitch.tv/santoskrol)
 - [jihadboy420](https://www.twitch.tv/jihadboy420)
