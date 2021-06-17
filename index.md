@@ -1,7 +1,9 @@
 ## Установка/Удаление
 Для установки бота на свой канал вы можете написать в личные сообщения твича:
 - [gercovv](https://www.twitch.tv/gercovv)
-- [santoskrol]
+- [santoskrol](https://www.twitch.tv/santoskrol)
+- [jihadboy420](https://www.twitch.tv/jihadboy420)
+- [h0ma](https://www.twitch.tv/h0mah0mah0myak)
 
 ### Markdown
 
