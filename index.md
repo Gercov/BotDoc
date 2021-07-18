@@ -1,7 +1,7 @@
 ## Помощь по чат-боту OldBoty
 
 ### Топ подключенных каналов
-- **bratishkinoff**
+- **bratishkinoff** - <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/2a5176cc-f522-487c-a6b8-636ff9f57a54-profile_image-50x50.png" /> bratishkinoff
 - **PCH3LK1N**
 - **mokrivskyi**
 - **jojohf**
