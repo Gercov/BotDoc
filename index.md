@@ -1,4 +1,8 @@
 ## Помощь по чат-боту OldBoty
+
+### Топ подключенных каналов
+- [bratishkinoff](https://static-cdn.jtvnw.net/jtv_user_pictures/2a5176cc-f522-487c-a6b8-636ff9f57a54-profile_image-30x30.png) bratishkinoff
+
 ### Установка / Удаление
 Для установки или удаления бота на свой канал вы можете написать в личные сообщения твича: 
  
