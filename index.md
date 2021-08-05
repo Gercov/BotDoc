@@ -13,7 +13,7 @@
  
 **Перед тем, как писать в личные сообщения, выдайте права модератора канала на данный никнейм — OldBoty — /mod oldboty**
 - [gercovv](https://www.twitch.tv/gercovv)
-- [santoskrol](https://www.twitch.tv/santoskrol)
+- [santosat1va](https://www.twitch.tv/santosat1va)
 - [jihadboy420](https://www.twitch.tv/jihadboy420)
 - [h0ma](https://www.twitch.tv/h0mah0mah0myak)
 
