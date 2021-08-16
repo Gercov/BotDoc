@@ -2,9 +2,11 @@
 
 ### Топ подключенных каналов
 - **bratishkinoff**
+- **JesusAVGN**
 - **PCH3LK1N**
 - **mokrivskyi**
 - **jojohf**
+- **zxcursed**
 - **gaechkatm**
 - **и другие 30+ каналов**
 
