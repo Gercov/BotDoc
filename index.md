@@ -12,7 +12,7 @@
 
 ### Смайлики бота
 - **ТГ** - **oldbotTG**
-- **VK** - **oldbotVK**
+- **VK** - **oldbotVk**
 - **INSTAGRAM** - **oldbotIG**
 - **YOUTUBE** - **oldbotYT**
 - **TIKTOK** - **oldbotTT**
