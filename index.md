@@ -11,7 +11,7 @@
 - **и другие 30+ каналов**
 
 ### Смайлики бота
-- **oldbotTG** - <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4af35e1676e44aff8fb66824b6fb51fb/default/dark/1.0" width="10" />
+- **oldbotTG** - <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4af35e1676e44aff8fb66824b6fb51fb/default/dark/1.0" width="10" height="10" />
 
 ### Установка / Удаление
 Для установки или удаления бота на свой канал вы можете написать в личные сообщения твича: 
