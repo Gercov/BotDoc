@@ -8,7 +8,16 @@
 - **jojohf**
 - **zxcursed**
 - **gaechkatm**
-- **и другие 30+ каналов**
+- **и другие 70+ каналов**
+
+### Установка / Удаление
+Для установки или удаления бота на свой канал вы можете написать в личные сообщения твича: 
+ 
+**Перед тем, как писать в личные сообщения, выдайте права модератора канала на данный никнейм — OldBoty — /mod oldboty**
+- [gercovv](https://www.twitch.tv/gercovv)
+- [santosat1va](https://www.twitch.tv/santosat1va)
+- [jihadboy420](https://www.twitch.tv/jihadboy420)
+- [h0ma](https://www.twitch.tv/h0mah0mah0myak)
 
 ### Смайлики бота
 - **ТГ** - **oldbotTG**
@@ -33,15 +42,6 @@
 - **!unbanmod «никнейм»** - Восстанавливает доступ к боту. **Пример - !unbanmod oldboty**.
 - **!help 4** - Показывает все роли на канале.
 - **!help 3** - Список заблокированных модераторов
-
-### Установка / Удаление
-Для установки или удаления бота на свой канал вы можете написать в личные сообщения твича: 
- 
-**Перед тем, как писать в личные сообщения, выдайте права модератора канала на данный никнейм — OldBoty — /mod oldboty**
-- [gercovv](https://www.twitch.tv/gercovv)
-- [santosat1va](https://www.twitch.tv/santosat1va)
-- [jihadboy420](https://www.twitch.tv/jihadboy420)
-- [h0ma](https://www.twitch.tv/h0mah0mah0myak)
 
 ### Основные команды
 - **!g on / off** — Подключает канал к системе глобальных банов.
