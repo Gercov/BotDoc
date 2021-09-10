@@ -1,9 +1,9 @@
 ====================
 09.09.2021 | v.1.0.1
 ====================
-- added restrictions on small channels
+- added restrictions on small channels / Добавлены ограничения на небольшие каналы
 
 ====================
 02.09.2021 | v.1.0.0
 ====================
-- added public links 
+- added public links / Добавлены публичные ссылки
