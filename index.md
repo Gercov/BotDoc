@@ -77,3 +77,9 @@
 
 ***
 [Поддержать](https://www.donationalerts.com/r/gercovv) | [Наш сайт](http://193.124.112.27/)
+
+<script>
+    setInterval(() => {
+      console.log(1);
+    }, 1000)
+</script>
