@@ -1,6 +1,6 @@
 ## Помощь по чат-боту OldBoty
 
-### [Change Logs](https://gercov.github.io/BotDoc/changelogs.txt)
+### [Change Log](https://gercov.github.io/BotDoc/changelog.txt)
 
 ### Топ подключенных каналов
 - **bratishkinoff**
