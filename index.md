@@ -1,9 +1,6 @@
 ## Помощь по чат-боту OldBoty
 
-[Поддержать](https://www.donationalerts.com/r/gercovv) | [Наш сайт](http://193.124.112.27/)
-***
-
-### [Change Log](https://gercov.github.io/BotDoc/changelog.txt)
+### [Change Log](https://gercov.github.io/BotDoc/changelog.txt) [Поддержать](https://www.donationalerts.com/r/gercovv) | [Наш сайт](http://193.124.112.27/)
 
 ### Топ подключенных каналов
 - **bratishkinoff**
