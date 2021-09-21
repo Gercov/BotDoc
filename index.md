@@ -10,6 +10,7 @@
 - **jojohf**
 - **zxcursed**
 - **gaechkatm**
+- **fANDERCS**
 - **и другие 70+ каналов**
 
 ### Установка / Удаление
@@ -21,6 +22,7 @@
 - [santosat1va](https://www.twitch.tv/santosat1va)
 - [jihadboy420](https://www.twitch.tv/jihadboy420)
 - [h0ma](https://www.twitch.tv/h0mah0mah0myak)
+- [MALLAIRR](https://www.twitch.tv/mallairr)
 
 ### Смайлики бота
 - **ТГ** - **oldbotTG**
